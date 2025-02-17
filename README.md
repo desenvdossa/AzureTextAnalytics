@@ -11,3 +11,7 @@
 ![image](https://github.com/user-attachments/assets/6c1057bf-f6a0-4287-9aff-771f9d587df2)
 ![image](https://github.com/user-attachments/assets/2d2f3b6a-6837-4493-a88f-3bec8388be65)
 <p>Texto classificado como neutro e um pouco positivo,  a positividade estava na segunda sentença devido a palavra calmo, ao mesmo tempo em que nada de interessante sobre as tarefes é algo neutro. </p>
+
+![image](https://github.com/user-attachments/assets/98bef6da-1203-437a-ab72-89f23a37882f)
+![image](https://github.com/user-attachments/assets/8eb62ef3-744f-49fe-a47e-527f9be78a04)
+<p>A análise classificou a dica de uma ferramenta como neutra, mesmo uma sentença sendo em partes negativas, apresentando um problema, e a segunda positiva, apresentando uma solução. Indicando que fez ligação com ambas as sentenças, indicado pela ligação realizada entre os termos "distrações" em uma frase e "lista de tarefas" em outra. </p>
